@@ -1,0 +1,1 @@
+<?php $db = new PDO("mysql:host=localhost;dbname=store;charset=utf8", "root", ""); ?>

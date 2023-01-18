@@ -1,0 +1,16 @@
+.products{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.product{
+    border: 1px solid red;
+    padding: 15px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.descr{
+    max-width: 500px;
+}
